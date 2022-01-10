@@ -1,6 +1,6 @@
 # GoLang
 I have followed Tech with Nana's Channel for the code and practise. SHOUTOUT TO NANA.<br>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/yyUHQIec83I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   https://www.youtube.com/watch?v=yyUHQIec83I <br>
 You must have Golang installed on your desktop to run the programm and you will also need an IDE.
 To run the programm in ther terminal you will have to write: " go run . " 
 (It will run both the file functions.go and main.go) happens because of GoLangs properties. 
